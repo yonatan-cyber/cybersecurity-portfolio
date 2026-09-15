@@ -72,6 +72,14 @@
 
 #### 
 
+#### 7\. SOC Analyst Checker
+
+#### 
+
+##### A Bash-based SOC validation tool designed to generate controlled network activity for monitoring and detection exercises. The project includes automatic network discovery, target selection, TCP SYN and UDP scanning, service detection, safety controls, and structured audit logging.
+
+#### 
+
 #### Disclaimer
 
 #### 

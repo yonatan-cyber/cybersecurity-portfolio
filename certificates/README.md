@@ -22,6 +22,12 @@ Hands-on training in Windows forensic investigation, evidence analysis, and fore
 
 
 
+**NX220 - SOC Analyst**
+
+Hands-on SOC training focused on security monitoring, incident analysis, network activity, detection, and practical SOC operations.
+
+
+
 **XE101 - Introduction to Cyber**
 
 Fundamental cybersecurity concepts and introductory security training.
